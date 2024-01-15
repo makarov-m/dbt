@@ -1,7 +1,8 @@
 # dbt Fundamentals Course Repository
 
-![Snowflake Logo](snowflake-logo.png)
-![dbt Logo](dbt-logo.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dbt-labs/dbt/ec7dee39f793aa4f7dd3dae37282cc87664813e4/etc/dbt-logo-full.svg" alt="dbt logo" width="500"/>
+</p>
 
 Welcome to my repository showcasing my journey through the dbt Fundamentals course. In this course, I learned essential skills and practices for data modeling and transformation using dbt (Data Build Tool) with Snowflake. This repository contains my work and progress throughout the course.
 
